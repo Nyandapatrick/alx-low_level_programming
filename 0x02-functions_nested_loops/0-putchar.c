@@ -5,7 +5,7 @@
  *
  * Return: Always 0
  */
-int main.h(_putchar)
+int main(void)
 {
 putchar("_putchar");
 putchar("\n")
