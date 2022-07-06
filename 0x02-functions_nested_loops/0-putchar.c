@@ -5,10 +5,10 @@
  *
  * Return: Always 0
  */
-int main(void)
+int main(_putchar)
 {
-putchar("_putchar");
-putchar("\n")
+putchar('_putchar');
+putchar('\n');
 
 return (0);
 }
