@@ -2,6 +2,8 @@
 
 /**
  * print_numbers -> A function that prints numbers.
+ *
+ * Return: The numbers 0 - 9
  */
 void print_numbers(void)
 {
